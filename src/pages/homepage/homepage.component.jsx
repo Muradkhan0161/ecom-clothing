@@ -3,8 +3,6 @@ import './homepage.styles.scss'
 
 export const Homepage = () => {
 
-
-
   return (
     <div className="homepage">
       <Directory />
